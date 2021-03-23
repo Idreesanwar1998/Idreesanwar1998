@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Idreesanwar1998
+- 👋 Hi, I’m Idrees Anwar
 - 👀 I’m interested in developing Mobile and Web Apps along with APIs and databases
 - 🌱 I’m currently learning Javascript, HTML and CSS
 
