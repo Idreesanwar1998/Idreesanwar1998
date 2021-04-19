@@ -1,0 +1,13 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'Welcome to my repository, If you have any questions, feel free to send me an email at idreesanwar1998@gmail.com'
+        pr-message: 'Thanks for contributing, your code will be checked and then merged into the solution if successfull'
